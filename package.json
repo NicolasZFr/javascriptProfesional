@@ -1,1 +1,19 @@
-
+{
+    "name": "javascript-prof",
+    "version": "1.0.0",
+    "description": "Curso Profesional Javascript de Platzi",
+    "license": "MIT",
+    "author": "",
+    "keywords": [
+        "javascriptProfesional"
+    ],
+    "scripts": {
+        "start": "live-server"
+    },
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    },
+    "dependencies": {
+        "chokidar": "^3.5.3"
+    }
+}
